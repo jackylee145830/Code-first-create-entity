@@ -6,11 +6,13 @@ Microsoft Visual Studio Professional 2019
 
 .Net Framework 4.7.2
 ***
-#### 建立
-新建立Consol
+#### 建立過程
+新建立**主控台應用程式**
+
 ![image](https://user-images.githubusercontent.com/114964065/206620954-cc151bf6-4ddd-4246-8dee-a30690580a94.png)
 
 加入項目 ADO.NET Entity Data Model
+
 ![image](https://user-images.githubusercontent.com/114964065/206621040-7c9e89e0-e286-449c-b480-422adf5c6a1e.png)
 
 選擇 Code first
