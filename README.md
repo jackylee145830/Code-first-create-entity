@@ -1,5 +1,5 @@
 # Code-first-create-entity
-Code first 產生實體模型 說明
+Code first 產生實體模型，使用既有的DB
 
 #### 開發環境
 Microsoft Visual Studio Professional 2019
